@@ -1,0 +1,1 @@
+curl -u a38e434837f5410dbe5e28cdf5a3b3be:gMFFqiXESTXEGdo7VljuuMG3F7392Cxp -d grant_type=client_credentials https://us.battle.net/oauth/token
